@@ -15,5 +15,13 @@ Para usar o projeto, procure o arquivo mainwindow.ui (circulado em vermelho na i
 ![usar](https://github.com/paulosdc/ProjetoPAfinal/blob/master/img/abrir.jpg)
 
 # Fazendo esculturas
+Para fazer as esculturas, você deverá "brincar" com a interface, cada botão tem uma funcionilidade específica. Antes de começar a desenhar, informe todas as dimensões (circuladas em vermelho) e depois clique em criar.
+
+![interface](https://github.com/paulosdc/ProjetoPAfinal/blob/master/img/interface.jpg)
+
+Depois de ter feito algumas artes no programa, no canto superior esquerdo clique em save, e um arquivo .off será gerado, e você poderá visualizar a sua escultura (no meshlab por exemplo).
+
+![uasr](https://github.com/paulosdc/ProjetoPAfinal/blob/master/img/salvar.jpg)
+
 
 
