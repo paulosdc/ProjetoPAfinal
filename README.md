@@ -19,9 +19,9 @@ Para fazer as esculturas, você deverá "brincar" com a interface, cada botão t
 
 ![interface](https://github.com/paulosdc/ProjetoPAfinal/blob/master/img/interface.jpg)
 
-Depois de ter feito algumas artes no programa, no canto superior esquerdo clique em save, e um arquivo .off será gerado, e você poderá visualizar a sua escultura (no meshlab por exemplo).
+Depois de ter feito algumas artes no programa, no canto superior esquerdo clique em save, e um arquivo .off será gerado, e você poderá visualizar a sua escultura (no meshlab por exemplo) assim como nas partes 1 e 2 do projeto.
 
 ![uasr](https://github.com/paulosdc/ProjetoPAfinal/blob/master/img/salvar.jpg)
 
-
-
+![exemplo](https://github.com/paulosdc/ProjetoPAfinal/blob/master/img/WhatsApp%20Image%202021-09-15%20at%2023.05.04.jpeg)
+Exemplo de escultura aberta.
