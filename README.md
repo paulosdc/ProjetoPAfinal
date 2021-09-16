@@ -13,3 +13,7 @@ Ao abrir o arquivo .pro, possivelmente você irá se deparar com o erro "No vali
 Para usar o projeto, procure o arquivo mainwindow.ui (circulado em vermelho na imagem), dê dois cliques nele. Após isso, deverá ser apresentada uma interface, mas para rodar de fato o projeto, após ter aberto o arquivo mainwindow.ui clique no botão play (circulado em azul na imagem).
 
 ![usar](https://github.com/paulosdc/ProjetoPAfinal/blob/master/img/abrir.jpg)
+
+# Fazendo esculturas
+
+
